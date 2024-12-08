@@ -98,14 +98,5 @@ WHERE drn = 3
 
 
 
-
-
-
-
-/*	
-Follow me in LinkedIn :: https://www.linkedin.com/in/najirr/
-Follow me in insta :: https://www.instagram.com/zero_analyst/
-Subscribe to our youtube channel :: https://www.youtube.com/@zero_analyst
-*/
 	
 
