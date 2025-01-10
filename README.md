@@ -1,5 +1,6 @@
 # 50-days-sql-Challenge
 
+![50 sql image](https://github.com/user-attachments/assets/4c1344e7-9abf-4a11-93e4-8b6a22076d89)
 
 
 - The 50 Days SQL Challenge is a structured learning journey designed to help me master SQL (Structured Query Language) concepts and practical applications step-by-step.
