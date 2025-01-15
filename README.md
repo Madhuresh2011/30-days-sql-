@@ -13,5 +13,5 @@
 - Explore key database concepts like tables, joins, and normalization.
 - Perform advanced data analysis with aggregate functions, subqueries, and window functions.
 - Optimize and troubleshoot SQL queries.
-- Work with real datasets to gain practical experience.
+- Work with real datasets to gain practical experience..
 
