@@ -50,7 +50,7 @@ SELECT
 FROM products20
 WHERE supplier_name IN ('Supplier A', 'Supplier B')
 GROUP BY product_id, product_name
-HAVING COUNT(DISTINCT supplier_name) = 2;
+HAVING COUNT(DISTINCT supplier_name) = 2
 
 
 
